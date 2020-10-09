@@ -1,0 +1,7 @@
+{
+    "root": "C:\\Users\\fuent\\Desktop\\citas\\ios",
+    "node_env": "development",
+    "default_script": "app.js",
+    "apps": {},
+    "web": {}
+}
