@@ -104,11 +104,9 @@ const styles = StyleSheet.create({
       
     },
     contenedor:{
-      backgroundColor: '#FFAA26',
+      backgroundColor: '#2426A6',
       flex : 1,
       marginHorizontal:'1%',
-     
-      
     },
     tituloHeader:{
       textAlign:'center',
@@ -142,7 +140,7 @@ const styles = StyleSheet.create({
     },  
     btnCita:{
       padding:10,
-      backgroundColor:'#A34AD9',
+      backgroundColor:'#46E9FF',
       marginVertical:10,
       borderRadius:20,
       width:250,

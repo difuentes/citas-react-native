@@ -173,16 +173,15 @@ const Formulario = ({citas, setCitas,  guardarMostrarForm, guardarCitasStorage})
 const styles = StyleSheet.create({
     btnSubmit:{
         padding:10,
-        backgroundColor:'#A34AD9',
+        backgroundColor:'#B646FF',
         marginVertical:20,
         borderRadius:20,
         width:250,
-        marginLeft:20,
+        marginLeft:10,
         alignItems:'center'
-        
     },
     form:{
-        backgroundColor: 'orange', 
+        backgroundColor: '#46E9FF', 
         paddingHorizontal:20,
         paddingVertical: 10,
         marginHorizontal:'5%',
